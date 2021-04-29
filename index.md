@@ -35,7 +35,6 @@ _ Iran University Science and Technology(IUST)
 ### Favorites
 
 ---
-+ Trade
 + Studing psychological books
 + travel 
 + playing PingPong
